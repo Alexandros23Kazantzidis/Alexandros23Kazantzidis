@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Alexandros Kazantzidis</h1>
 <h3 align="center">Full stack engineer passionated about Frontend</h3>
 
-- 🔭 I’m currently working at **Everli**
+- 🔭 I’m currently working at **cargo.one**
 
 - 🌱 I’m currently learning **how to build a product from the ground up (Job Rider)**
 
