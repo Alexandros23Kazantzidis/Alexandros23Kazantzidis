@@ -6,9 +6,9 @@
 
 - 🌱 I’m currently learning **how to build a product from the ground up (Job Rider)**
 
-- 👨‍💻 All of my projects are available at [https://alexandroskaza.com/](https://alexandroskaza.com/)
+- 👨‍💻 All of my projects are available at [https://alexandroskaza.com/](https://alexkaza.com/)
 
-- 📫 How to reach me **alexkaza23@gmail.com**
+- 📫 How to reach me **alexandroskaza23@gmail.com**
 
 - ⚡ Fun fact **I love Scorsese movies**
 
