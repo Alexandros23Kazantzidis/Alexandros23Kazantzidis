@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **how to build a product from the ground up (Job Rider)**
 
-- 👨‍💻 All of my projects are available at [https://alexkaza.com/](https://alexkaza.com/)
+- 👨‍💻 All of my projects are available at [https://alexandroskaza.com/](https://alexandroskaza.com/)
 
 - 📫 How to reach me **alexandroskaza23@gmail.com**
 
