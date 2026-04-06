@@ -1,4 +1,4 @@
-[![MasterHead](./master.png)](https://rishavchanda.io)
+[![MasterHead](./master_alexandros.png)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alexandros Kazantzidis</h1>
 <h3 align="center">Full stack engineer passionated about Frontend</h3>
 
